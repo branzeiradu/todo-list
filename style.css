@@ -1,0 +1,3 @@
+.task--done .task__title{
+    text-decoration: line-through;
+}
